@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="Keluar"><u> Keluar</u></string>
+    <string name="Batal"><u> Batal</u></string>
+</resources>
